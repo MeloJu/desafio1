@@ -20,5 +20,6 @@ env/
 .DS_Store
 Thumbs.db
 
-# Challenge PDF (not part of the deliverable)
+# Challenge PDF and reference files (not part of the deliverable)
 Desafio 1.pdf
+README exemplo.md
