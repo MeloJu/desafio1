@@ -7,7 +7,6 @@ __pycache__
 *.pyc
 .pytest_cache
 tests
-assets
 README.md
 README exemplo.md
 Desafio 1.pdf

@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/banner.png" alt="Banner do projeto" width="100%">
-</p>
-
 <h1 align="center">🚀 Desafio 1 — Pipeline CI/CD Completo</h1>
 <p align="center">
   API em <strong>FastAPI</strong> usada como base para construir um pipeline de CI/CD "nível produção" com <strong>GitHub Actions</strong>: testes automatizados, análise de segurança estática (SAST), build e publicação de imagem Docker, seguindo o fluxo <strong>GitFlow</strong>.
@@ -80,9 +76,6 @@ desafio1/
 │
 ├── 📂 tests/                      # 🧪 Testes automatizados
 │   └── test_main.py               # 6 testes unitários (pytest)
-│
-├── 📂 assets/                     # 🎨 Imagens usadas no README
-│   └── banner.png
 │
 ├── .dockerignore                  # Exclusões do contexto de build Docker
 ├── .gitignore                     # Exclusões do Git
