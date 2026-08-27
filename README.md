@@ -253,16 +253,6 @@ docker run -p 8000:8000 desafio1-api
 
 -----
 
-## 🔮 Possíveis melhorias futuras
-
-- Proteger também a branch `develop`.
-- Adicionar testes de integração além dos unitários.
-- Build multi-arquitetura da imagem (`linux/amd64` + `linux/arm64`).
-- Usar `SEMGREP_APP_TOKEN` para scanning diff-aware via Semgrep AppSec Platform.
-- Versionamento semântico das imagens publicadas (tags `vX.Y.Z`).
-
------
-
 ## 👨‍💻 Autor
 
 <table align="center">
